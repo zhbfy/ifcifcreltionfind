@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="._.DS_Store" type="Native" />
+      <mapping pattern="._.svn" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="ifc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
